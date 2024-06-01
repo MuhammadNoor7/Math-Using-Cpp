@@ -16,4 +16,6 @@
 
 7) PASCAL TRIANGLE : This code generates Pascal's Triangle, a triangular array of binomial coefficients.
 
-8) PERMUTATIONS : This C++ program generates and prints all possible permutations of a given number of letters (1 to 5) within a specified range, ensuring no repeated characters in each permutation. It uses nested loops and a switch statement to handle different lengths of permutations based on user input.
+8) PASCAL PATTERN : This C++ program uses recursion to compute the binomial coefficient via Pascal's triangle . It also prints Pascal's triangle by iterating through rows and columns, using the recursive binomial coefficient function to generate the triangle's values.
+
+9) PERMUTATIONS : This C++ program generates and prints all possible permutations of a given number of letters (1 to 5) within a specified range, ensuring no repeated characters in each permutation. It uses nested loops and a switch statement to handle different lengths of permutations based on user input.
